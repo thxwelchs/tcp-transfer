@@ -56,7 +56,7 @@ common 모듈의 `config/MySQLConfig.java`에서 Database 접속 정보 수정
       `ms` int(3) NOT NULL DEFAULT '0',
       PRIMARY KEY (`id`),
       KEY `source_created_time_IDX` (`created_time`) USING BTREE
-    ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8
+    ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
     ```
 
 2. 빌드
