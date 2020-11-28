@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d926958-a74f-4d05-a2cf-3047add0d6e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/data-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/master-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/osci-assginment-leetaehun-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/slave-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/config/MySQLConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/config/MySQLConnector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Destination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/HashLinkedBlockingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Source.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Table.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/TransferableDataQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/TransferableEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/DataTransferable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/Datagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/DatagramHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/DestinationRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/SourceRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/TransferableEntityRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/DestinationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/RandomableNumberGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/SourceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/utils/ByteSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/libs/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/config/MySQLConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/config/MySQLConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Destination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/HashLinkedBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Source.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/TransferableDataQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/TransferableEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/DataTransferable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/Datagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/DatagramHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/DestinationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/SourceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/TransferableEntityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/DestinationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/RandomableNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/SourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/ByteSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build/classes/java/main/DataApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build/classes/java/main/scheduler/SourceScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build/libs/data-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/DataApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/src/main/java/scheduler/SourceScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/MasterApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/BlockingServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/BlockingServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/Server$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/scheduler/ProcessedScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/libs/master-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/src/main/java/MasterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/src/main/java/io/BlockingServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/src/main/java/io/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master/src/main/java/scheduler/ProcessedScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/SlaveApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/io/BlockingClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/io/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/scheduler/BlockingDestinationScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/scheduler/DestinationScheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/libs/slave-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/src/main/java/SlaveApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/src/main/java/io/BlockingClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/src/main/java/io/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/src/main/java/scheduler/BlockingDestinationScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slave/src/main/java/scheduler/DestinationScheduler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/data">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="osci-assginment-leetaehun" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="osci-assginment-leetaehun" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="osci-assginment-leetaehun" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kuQ5Clpjzzp1RerUTTVRKyD4OF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.SlaveApplication">
+    <configuration name="DataApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataApplication" />
+      <module name="osci-assginment-leetaehun.data.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasterApplication" />
+      <module name="osci-assginment-leetaehun.master.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlaveApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SlaveApplication" />
+      <module name="osci-assginment-leetaehun.slave.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="osci-assginment-leetaehun [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="osci-assginment-leetaehun:common [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.osci-assginment-leetaehun [build]" />
+        <item itemvalue="Application.DataApplication" />
+        <item itemvalue="Application.SlaveApplication" />
+        <item itemvalue="Application.MasterApplication" />
+        <item itemvalue="Gradle.osci-assginment-leetaehun:common [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d926958-a74f-4d05-a2cf-3047add0d6e5" name="Default Changelist" comment="" />
+      <created>1606547810909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606547810909</updated>
+      <workItem from="1606547813042" duration="23766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="356" key="#Project_Structure" timestamp="1606551353429">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="465" y="356" key="#Project_Structure/0.23.3440.1337@0.23.3440.1337" timestamp="1606551353429" />
+    <state x="678" y="407" key="#com.intellij.ide.util.MemberChooser" timestamp="1606563078219">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="678" y="407" key="#com.intellij.ide.util.MemberChooser/0.23.3440.1337@0.23.3440.1337" timestamp="1606563078219" />
+    <state x="1583" y="318" width="1063" height="997" key="CommitChangelistDialog2" timestamp="1606574241239">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1583" y="318" width="1063" height="997" key="CommitChangelistDialog2/0.23.3440.1337@0.23.3440.1337" timestamp="1606574241239" />
+    <state width="1794" height="382" key="GridCell.Tab.0.bottom" timestamp="1606574244829">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1794" height="382" key="GridCell.Tab.0.bottom/0.23.3440.1337@0.23.3440.1337" timestamp="1606574244829" />
+    <state width="1794" height="382" key="GridCell.Tab.0.center" timestamp="1606574244829">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1794" height="382" key="GridCell.Tab.0.center/0.23.3440.1337@0.23.3440.1337" timestamp="1606574244829" />
+    <state width="1794" height="382" key="GridCell.Tab.0.left" timestamp="1606574244828">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1794" height="382" key="GridCell.Tab.0.left/0.23.3440.1337@0.23.3440.1337" timestamp="1606574244828" />
+    <state width="1794" height="382" key="GridCell.Tab.0.right" timestamp="1606574244829">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1794" height="382" key="GridCell.Tab.0.right/0.23.3440.1337@0.23.3440.1337" timestamp="1606574244829" />
+    <state width="1676" height="469" key="GridCell.Tab.1.bottom" timestamp="1606556073900">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1676" height="469" key="GridCell.Tab.1.bottom/0.23.3440.1337@0.23.3440.1337" timestamp="1606556073900" />
+    <state width="1676" height="469" key="GridCell.Tab.1.center" timestamp="1606556073899">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1676" height="469" key="GridCell.Tab.1.center/0.23.3440.1337@0.23.3440.1337" timestamp="1606556073899" />
+    <state width="1676" height="469" key="GridCell.Tab.1.left" timestamp="1606556073899">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1676" height="469" key="GridCell.Tab.1.left/0.23.3440.1337@0.23.3440.1337" timestamp="1606556073899" />
+    <state width="1676" height="469" key="GridCell.Tab.1.right" timestamp="1606556073900">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state width="1676" height="469" key="GridCell.Tab.1.right/0.23.3440.1337@0.23.3440.1337" timestamp="1606556073900" />
+    <state x="353" y="272" key="SettingsEditor" timestamp="1606550242127">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="353" y="272" key="SettingsEditor/0.23.3440.1337@0.23.3440.1337" timestamp="1606550242127" />
+    <state x="666" y="476" key="chooseDestDirectoryDialog" timestamp="1606548578232">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="666" y="476" key="chooseDestDirectoryDialog/0.23.3440.1337@0.23.3440.1337" timestamp="1606548578232" />
+    <state x="472" y="416" width="786" height="550" key="find.popup" timestamp="1606565284775">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="472" y="416" width="786" height="550" key="find.popup/0.23.3440.1337@0.23.3440.1337" timestamp="1606565284775" />
+    <state x="294" y="305" key="new project wizard" timestamp="1606547989168">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="294" y="305" key="new project wizard/0.23.3440.1337@0.23.3440.1337" timestamp="1606547989168" />
+    <state x="530" y="328" key="search.everywhere.popup" timestamp="1606555585667">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="530" y="328" key="search.everywhere.popup/0.23.3440.1337@0.23.3440.1337" timestamp="1606555585667" />
+  </component>
+</project>

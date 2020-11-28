@@ -1,0 +1,6 @@
+rootProject.name = 'osci-assginment-leetaehun'
+include 'common'
+include 'data'
+include 'master'
+include 'slave'
+

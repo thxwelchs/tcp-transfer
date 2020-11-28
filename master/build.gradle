@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'com.osci'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'MasterApplication'
+    }
+
+    from configurations.runtime.collect {
+        zipTree(it)
+    }
+
+    destinationDir project.file('../build/libs')
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
