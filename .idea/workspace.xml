@@ -1,114 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d926958-a74f-4d05-a2cf-3047add0d6e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/data-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/master-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/osci-assginment-leetaehun-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/slave-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/config/MySQLConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/config/MySQLConnector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Destination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/HashLinkedBlockingQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Source.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/Table.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/TransferableDataQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/domain/TransferableEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/DataTransferable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/Datagram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/io/DatagramHeader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/DestinationRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/SourceRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/repository/TransferableEntityRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/DestinationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/RandomableNumberGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/service/SourceService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/classes/java/main/utils/ByteSerializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/libs/common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/config/MySQLConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/config/MySQLConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Destination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/HashLinkedBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/TransferableDataQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/domain/TransferableEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/DataTransferable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/Datagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/io/DatagramHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/DestinationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/SourceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/repository/TransferableEntityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/DestinationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/RandomableNumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/service/SourceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/ByteSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/build/classes/java/main/DataApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/build/classes/java/main/scheduler/SourceScheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/build/libs/data-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/src/main/java/DataApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/src/main/java/scheduler/SourceScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/MasterApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/BlockingServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/BlockingServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/io/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/classes/java/main/scheduler/ProcessedScheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/libs/master-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/main/java/MasterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/main/java/io/BlockingServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/main/java/io/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master/src/main/java/scheduler/ProcessedScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/SlaveApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/io/BlockingClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/io/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/scheduler/BlockingDestinationScheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/classes/java/main/scheduler/DestinationScheduler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/libs/slave-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/src/main/java/SlaveApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/src/main/java/io/BlockingClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/src/main/java/io/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/src/main/java/scheduler/BlockingDestinationScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slave/src/main/java/scheduler/DestinationScheduler.java" afterDir="false" />
+    <list default="true" id="4d926958-a74f-4d05-a2cf-3047add0d6e5" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,12 +172,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606547810909</updated>
-      <workItem from="1606547813042" duration="23766000" />
+      <workItem from="1606547813042" duration="24751000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="465" y="356" key="#Project_Structure" timestamp="1606551353429">
