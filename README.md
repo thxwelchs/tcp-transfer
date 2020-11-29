@@ -66,6 +66,7 @@ common 모듈의 `config/MySQLConfig.java`에서 Database 접속 정보 수정
     ```
 
 3. 실행
+    data, master, slave 실행
     ```bash
     $ cd ./build/libs
     $ java -jar {data|master|slave}-{SNAPSHOT_VERSION}.jar
