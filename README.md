@@ -1,5 +1,3 @@
-# 오픈소스 컨설팅
-
 # 데이터베이스 구성
 
 ![image](https://user-images.githubusercontent.com/38197077/100518157-3f03b480-31d3-11eb-9fa4-e07d135a15c9.png)
